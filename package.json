@@ -1,0 +1,11 @@
+{
+    "name": "inputevents",
+    "version": "0.0.1",
+    "description":"Common library for processing mouse and keyboard events",
+    "author": {
+        "name":"Josh Marinacci",
+        "email":"joshua@marinacci.org",
+        "url":"http://joshondesign.com/"
+    },
+    "main": "./inputevents.js"
+}
