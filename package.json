@@ -1,6 +1,6 @@
 {
     "name": "inputevents",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description":"Common library for processing mouse and keyboard events",
     "author": {
         "name":"Josh Marinacci",
